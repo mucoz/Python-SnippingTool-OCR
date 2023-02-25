@@ -9,4 +9,4 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 # Tesseract path will be stored in "config.ini" file along with other environmental variables.
 
-# While using the app, a detail log file will be generated in "Logs" folder.
+# While using the app, a detailed log file will be generated in "Logs" folder.
